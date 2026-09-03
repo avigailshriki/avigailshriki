@@ -65,9 +65,12 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
 Also using: SQL Server · Jira · Power BI *
 
 **⚡ Technologies**
+---
 
 · Security & Integration: JWT Authentication 
+---
 · Google Maps API 
+---
 · AI APIs
 · REST APIs 
 · OOP 
