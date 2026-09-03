@@ -11,8 +11,6 @@ Software engineer with comprehensive training in Full-Stack development and a gr
 
 ---
 
-### 🛠️ Tech Stack
-
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
