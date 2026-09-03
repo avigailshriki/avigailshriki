@@ -61,9 +61,10 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" /></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=light" width="48" height="48" alt="Postman" /></a>
   <a href="https://bitbucket.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bitbucket&theme=light" width="48" height="48" alt="Bitbucket" /></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/jira.png" width="48" height="48" alt="Jira" /></a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" /></a>
 </p>
-
-Also using: Jira · Power BI *
 
 Security & Integration: JWT Authentication · Google Maps API · AI APIs · REST APIs · OOP · Design Patterns
 
