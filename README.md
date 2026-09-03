@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-Software engineer with comprehensive training in Full-Stack development and a graduate of a software engineering program. I have hands-on experience building complex, end-to-end web systems — including designing APIs, working with databases, and developing dynamic client-side interfaces. I work well both independently and in a team, with strong analytical thinking, high responsibility, and a solid work ethic.
+Hello, I am Avigail Shriki, a software developer with strong logical thinking, self-learning ability, and quick analytical thinking. I take full responsibility for my work and successfully deal with complex challenges, even under pressure. I work well both independently and in a team, with excellent interpersonal skills, a solid work ethic, and complete dedication to each project — and consistently strive for exceptional results.
 
 ---
 
