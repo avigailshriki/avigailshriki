@@ -97,8 +97,16 @@ An AI-powered trip planner that generates personalized daily itineraries, integr
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avigailshriki&show_icons=true&theme=default&hide_border=true" alt="Avigail's GitHub stats" />
+</p>
+
+---
+
 ## 📬 Contact Me
 
--  GitHub: **[github.com/a0583217526](https://github.com/a0583217526/)**
--  Email: **a0583217526@gmail.com**
--  Phone: **058-321-7526**
+- 🌐 GitHub: **[github.com/avigailshriki](https://github.com/avigailshriki/)**
+- 📧 Email: **a0583217526@gmail.com**
+- ☎️ Phone: **058-321-7526**
