@@ -1,10 +1,5 @@
 #  Avigail Shriki
 
-### Full Stack Software Engineer | Building end-to-end web systems
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0583217526@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a0583217526)
-
 ---
 
 ## 🌟 About Me
@@ -66,10 +61,6 @@ An AI-powered trip planner that generates personalized daily itineraries, integr
 
 ---
 
-## 📈 GitHub Stats
+## 📬 Contact Me
 
-![Avigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0583217526&show_icons=true&theme=default&hide_border=true)
-
----
-
-📫 Reach me at: **a0583217526@gmail.com**
+📧 Email:  **a0583217526@gmail.com**    ☎️  **0583217526**
