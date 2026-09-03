@@ -1,4 +1,4 @@
-# Hi, I'm Avigail 👋
+#  Avigail Shriki
 
 ### Full Stack Software Engineer | Building end-to-end web systems
 
@@ -7,13 +7,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🌟 About Me
 
 Software engineer with comprehensive training in Full-Stack development and a graduate of a software engineering program. I have hands-on experience building complex, end-to-end web systems — including designing APIs, working with databases, and developing dynamic client-side interfaces. I work well both independently and in a team, with strong analytical thinking, high responsibility, and a solid work ethic.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,nodejs,spring,dotnet,py,java,c,cs,mongodb,mysql,postgres,git,github,docker,postman,bitbucket,aws&theme=light&perline=8" alt="Languages and tools" />
@@ -25,7 +25,7 @@ Security & Integration: JWT Authentication · Google Maps API · AI APIs · REST
 
 ---
 
-### 🚀 Featured Projects
+## 📁 Featured Projects
 
 Full details are shown below via my Pinned Repositories — here's the tech behind each one:
 
@@ -43,7 +43,7 @@ An AI-powered trip planner that generates personalized daily itineraries, integr
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Avigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0583217526&show_icons=true&theme=default&hide_border=true)
 
