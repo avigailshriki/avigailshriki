@@ -10,7 +10,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
 
 ## 🛠️ Languages and Tools
 
-**💻 Languages**
+**שפות (Languages)**
 
 <p align="left">
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" /></a>
@@ -21,7 +21,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs&theme=light" width="48" height="48" alt="C#" /></a>
 </p>
 
-**⚙️ Server-side**
+**צד שרת (Server-side)**
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" /></a>
@@ -29,7 +29,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" width="48" height="48" alt=".NET" /></a>
 </p>
 
-**🎨 Client-side**
+**צד לקוח (Client-side)**
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=light" width="48" height="48" alt="Angular" /></a>
@@ -38,21 +38,22 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS3" /></a>
 </p>
 
-**🗄️Databases**
+**מסדי נתונים (Databases)**
 
 <p align="left">
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="48" height="48" alt="MongoDB" /></a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" alt="MySQL" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="48" height="48" alt="SQL Server" /></a>
 </p>
 
-**Cloud**
+**ענן (Cloud)**
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" /></a>
 </p>
 
-**🔧 Tools & Platforms**
+**כלים (Tools)**
 
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" /></a>
@@ -62,21 +63,9 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://bitbucket.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bitbucket&theme=light" width="48" height="48" alt="Bitbucket" /></a>
 </p>
 
-Also using: SQL Server · Jira · Power BI *
+Also using: Jira · Power BI *
 
-**⚡ Technologies**
----
-
-· Security & Integration: JWT Authentication 
----
-· Google Maps API 
----
-· AI APIs
-· REST APIs 
-· OOP 
-· Design Patterns
-· Clean Architecture
-· Entity Framework Core
+Security & Integration: JWT Authentication · Google Maps API · AI APIs · REST APIs · OOP · Design Patterns
 
 ---
 
