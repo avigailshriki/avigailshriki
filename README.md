@@ -1,19 +1,16 @@
-# היי, אני אביגיל 👋
+Avigail Shriki
 
-### מהנדסת תוכנה Full Stack | בונה מערכות Web מקצה לקצה
+### Full Stack Software Engineer | Building end-to-end web systems
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0583217526@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a0583217526)
 
----
-
-### 🧑‍💻 קצת עליי
-
-מהנדסת תוכנה בעלת הכשרה מקיפה בפיתוח Full-Stack, בוגרת מסלול הנדסת תוכנה. רכשתי ניסיון מעשי רב בפיתוח מערכות Web מורכבות מקצה לקצה — כולל בניית APIs, עבודה עם בסיסי נתונים ופיתוח ממשקי צד לקוח דינמיים. עובדת היטב גם באופן עצמאי וגם בצוות, עם חשיבה אנליטית, אחריות ומוסר עבודה גבוה.
+🌟 About Me
+Software engineer with comprehensive training in Full-Stack development and a graduate of a software engineering program. I have hands-on experience building complex, end-to-end web systems — including designing APIs, working with databases, and developing dynamic client-side interfaces. I work well both independently and in a team, with strong analytical thinking, high responsibility, and a solid work ethic.
 
 ---
 
-### 🛠️ טכנולוגיות וכלים
+### 🛠️ Tech Stack
 
 **Backend**
 
@@ -34,14 +31,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**בסיסי נתונים**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**כלים ומתודולוגיות**
+**Tools & Methodologies**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -50,46 +47,32 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-אבטחה ואינטגרציה: JWT Authentication · Google Maps API · AI APIs · REST APIs · OOP · Design Patterns
+Security & Integration: JWT Authentication · Google Maps API · AI APIs · REST APIs · OOP · Design Patterns
 
 ---
 
-### 🚀 פרויקטים נבחרים
+### 🚀 Featured Projects
 
-הפרויקטים המלאים מוצגים למטה כ־Pinned Repositories, ואלה עיקרי הטכנולוגיה מאחורי כל אחד מהם:
+Full details are shown below via my Pinned Repositories — here's the tech behind each one:
 
-**מערכת ניהול השאלות ספרייה** — `Spring Boot` `Microservices` `Docker`
-תכנון ומימוש לוגיקה עסקית בסביבת Spring Boot תוך שימוש בארכיטקטורת מיקרו-שירותים מבוזרת, ניהול תקשורת מאובטחת בין שירותים והבטחת עקביות ושלמות נתונים. הטמעת סביבות עבודה מבודדות ו-Deployment באמצעות Docker (בתהליך מעבר ל-AWS).
+**Library Loan Management System** — `Spring Boot` `Microservices` `Docker`
+Designed and implemented core business logic in a Spring Boot environment using a distributed microservices architecture, managed secure inter-service communication, and ensured data consistency and integrity. Set up isolated environments and deployment with Docker (migration to AWS in progress).
 
-**מערכת ניהול מענקים לסטודנטים** — `Node.js` `MongoDB` `React`
-פיתוח ארכיטקטורת צד-שרת, הטמעת מנגנוני אימות מאובטחים (JWT) ומימוש לוגיקה עסקית מורכבת לממשקי Multi-step.
+**Student Grants Management Platform** — `Node.js` `MongoDB` `React`
+Built the server-side architecture, implemented secure authentication (JWT), and developed complex business logic for multi-step interfaces.
 
-**פלטפורמת ניהול והשכרת נכסי נופש** — `Angular` `C#` `SQL` `Swagger`
-פיתוח REST APIs מאובטח וניהול שכבת נתונים (Entity Framework), ממשק משתמש אינטראקטיבי ב-Angular עם טפסים מורכבים, מנוע חיפוש מבוסס Google Maps API, וניהול מצב משתמש (Local Storage).
+**Vacation Property Rental Management App** — `Angular` `C#` `SQL` `Swagger`
+Developed secure REST APIs and a data layer (Entity Framework), an interactive Angular UI with complex forms, a Google Maps API–based search engine, and user state management (Local Storage).
 
-**מתכנן טיולים חכם** — `React` `Node.js/Express` `OpenAI` `PostgreSQL`
-מתכנן טיולים מבוסס בינה מלאכותית שיוצר מסלולי טיול יומיים מותאמים אישית, בשילוב Google Places ו-OpenWeatherMap.
+**Smart Trip Planner** — `React` `Node.js/Express` `OpenAI` `PostgreSQL`
+An AI-powered trip planner that generates personalized daily itineraries, integrating Google Places and OpenWeatherMap.
 
----
 
-### 🎓 השכלה והכשרה
-
-- תעודת הנדסת תוכנה (מה"ט), ממוצע ציונים 90% — סמינר בית בינה (2024–2026)
-- הכשרה מקצועית Full Stack Development — תוכנית קמאטק (Kamatech): אלגוריתמים, מבני נתונים ומתמטיקה
-
----
-
-### 🌐 שפות
-
-עברית (שפת אם) · צרפתית (שליטה טובה בדיבור) · אנגלית (קריאה וכתיבה טכנית)
-
----
-
-### 📈 סטטיסטיקות GitHub
+### 📈 GitHub Stats
 
 ![Avigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0583217526&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a0583217526&layout=compact&hide_border=true)
 
 ---
 
-📫 ניתן ליצור איתי קשר במייל: **a0583217526@gmail.com**
+📫 Reach me at: **a0583217526@gmail.com**
