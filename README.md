@@ -10,7 +10,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
 
 ## 🛠️ Languages and Tools
 
-**שפות (Languages)**
+**💻 Languages**
 
 <p align="left">
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" /></a>
@@ -21,7 +21,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs&theme=light" width="48" height="48" alt="C#" /></a>
 </p>
 
-**צד שרת (Server-side)**
+**⚙️ Server-side**
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" /></a>
@@ -29,7 +29,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" width="48" height="48" alt=".NET" /></a>
 </p>
 
-**צד לקוח (Client-side)**
+**🎨 Client-side**
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=light" width="48" height="48" alt="Angular" /></a>
@@ -38,7 +38,7 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS3" /></a>
 </p>
 
-**מסדי נתונים (Databases)**
+**🗄️ Databases**
 
 <p align="left">
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="48" height="48" alt="MongoDB" /></a>
@@ -47,13 +47,13 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="48" height="48" alt="SQL Server" /></a>
 </p>
 
-**ענן (Cloud)**
+**🚀 Cloud**
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" /></a>
 </p>
 
-**כלים (Tools)**
+**🔧 Tools**
 
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" /></a>
@@ -66,7 +66,16 @@ Hello, I am Avigail Shriki, a software developer with strong logical thinking, s
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" /></a>
 </p>
 
-Security & Integration: JWT Authentication · Google Maps API · AI APIs · REST APIs · OOP · Design Patterns
+**⚡ Technologies**
+
+- Security & Integration: JWT Authentication
+- Google Maps API
+- AI APIs
+- REST APIs
+- OOP
+- Design Patterns
+- Entity Framework Core
+- Clean Architecture
 
 ---
 
@@ -97,6 +106,7 @@ An AI-powered trip planner that generates personalized daily itineraries, integr
 ---
 
 ## 📬 Contact Me
-🌐 GitHub: **https://github.com/a0583217526/**
-📧 Email:  **a0583217526@gmail.com** 
-☎️  **0583217526**
+
+- 🌐 GitHub: **[github.com/a0583217526](https://github.com/a0583217526/)**
+- 📧 Email: **a0583217526@gmail.com**
+- ☎️ Phone: **058-321-7526**
