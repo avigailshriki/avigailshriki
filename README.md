@@ -43,13 +43,6 @@ An AI-powered trip planner that generates personalized daily itineraries, integr
 
 ---
 
-### 🎓 Education & Training
-
-- Software Engineering Certificate (Technological Education), 90% average — Beit Bina Seminar (2024–2026)
-- Full Stack Development professional training — Kamatech program: algorithms, data structures, and mathematics
-
----
-
 ### 📈 GitHub Stats
 
 ![Avigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0583217526&show_icons=true&theme=default&hide_border=true)
